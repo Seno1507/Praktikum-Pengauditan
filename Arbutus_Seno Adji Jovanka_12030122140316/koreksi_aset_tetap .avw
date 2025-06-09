@@ -1,0 +1,11 @@
+[SKIP] 0
+[TLINES] 1
+[RLINES] 1
+[LINE] 1
+Nama_dan_spesifikasi  
+Harga_Perolehan        WIDTH 14
+Tarif_Penyusutan       WIDTH 14
+Penyusutan_2021        WIDTH 14
+perhitungan           
+saldo_benar            WIDTH 15
+selisih                WIDTH 16

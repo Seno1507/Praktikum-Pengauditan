@@ -1,0 +1,11 @@
+[SKIP] 0
+[TLINES] 1
+[RLINES] 1
+[LINE] 1
+EmployeeNo             WIDTH 16
+Gross_Pay              WIDTH 15
+Tax_Amount             WIDTH 16
+Net_Pay                WIDTH 11
+Work_Dept              WIDTH 12
+Pay_Date              
+Cheque_No              WIDTH 12

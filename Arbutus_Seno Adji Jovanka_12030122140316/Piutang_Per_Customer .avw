@@ -1,0 +1,9 @@
+[SKIP] 0
+[TLINES] 2
+[RLINES] 1
+[LINE] 1
+CustomerNo             WIDTH 15
+Count                 
+COUNT_PERCENTAGE       WIDTH 11
+FIELD_PERCENTAGE       WIDTH 13
+Amount                

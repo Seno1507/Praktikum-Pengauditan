@@ -1,0 +1,23 @@
+FILE_NAME C:\Users\USer\Documents\PRAKDIT\OneDrive_2025-03-03\Realsa data\EmployeeMaster.csv
+[FILESIZE] 42
+[LASTVIEW] "EmployeeMaster"
+[SERVER] LOCAL
+[DELIMITED] 1 44 34
+[VERSION] 1
+RECORD_LENGTH 221
+Employee_Number                 ASCII       1   6   NATIVE [D]  
+First_Name                      ASCII       7  13   NATIVE [D]  
+Last_Name                       ASCII      20  15   NATIVE [D]  
+Address                         ASCII      35  35   NATIVE [D]  
+City                            ASCII      70   9   NATIVE [D]  
+Work_Department                 ASCII      79   3   NATIVE [D]  
+Phone_Number                    ASCII      82   4   NATIVE [D]  
+HireDate                        DATETIME   86  10   PICTURE "mm/dd/yyyy" NATIVE [D]  
+Job_Desc_                       ASCII      96   8   NATIVE [D]  
+Education_Level                 ASCII     104   2   NATIVE [D]  
+Gender                          ASCII     106   1   NATIVE [D]  
+Salary                          ASCII     107   8   NATIVE [D]  
+Birthdate                       DATETIME  115  10   PICTURE "mm/dd/yyyy" NATIVE [D]  
+Bonus                           ASCII     125   7   NATIVE [D]  
+Commission                      ASCII     132   7   NATIVE [D]  
+Pay_Per_Period                  ASCII     139   7   NATIVE [D]  

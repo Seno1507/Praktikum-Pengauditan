@@ -1,0 +1,15 @@
+FILE_NAME VendorMaster.FIL
+~Table Imported via OpenXML Excel 05/09/2025 17:13:52
+~.05/09/2025 17:13:52 _ IMPORT OPENEXCEL TO VendorMaster FILE "C:\Users\USer\Documents\PRAKDIT\OneDrive_2025-03-03\Realsa data\Account Payable.xlsx" TABLE "VendorMaster" SERVER "LOCAL" FLAT "C:\Users\USer\Documents\Arbutus\VendorMaster.FIL" FIELDS "Vendor_No","Vendor_Name","Vendor_Street","Vendor_City" END 
+[FILESIZE] 20
+[LASTVIEW] "_Dup_VendorMaster"
+[REFRESH] OPENEXCEL FILE "C:\Users\USer\Documents\PRAKDIT\OneDrive_2025-03-03\Realsa data\Account Payable.xlsx" TABLE "VendorMaster" SERVER "LOCAL" FLAT "C:\Users\USer\Documents\Arbutus\VendorMaster.FIL" FIELDS "Vendor_No","Vendor_Name","Vendor_Street","Vendor_City" END
+[SERVER] LOCAL
+[DELIMITED] 0 9 0
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 114
+Vendor_No                       UTF8        1   5   NATIVE [D]  
+Vendor_Name                     UTF8        6  25   NATIVE [D]  
+Vendor_Street                   UTF8       31  29   NATIVE [D]  
+Vendor_City                     UTF8       60  12   NATIVE [D]  

@@ -1,0 +1,18 @@
+FILE_NAME Piutang Per Customer.fil
+~.05/28/2025 18:15:09 AccountsReceivable CLASSIFY ON CustomerNo ACCUMULATE Amount GROUPBY CustomerNo TO "Piutang Per Customer" OPEN PRESORT TOP ALL
+~Input : Records:299         Control Total:0                    
+~Output: Records:36          Control Total:0                    
+~:CLASSIFY:AccountsReceivable:CustomerNo
+[FILESIZE] 36
+[LASTVIEW] "Piutang_Per_Customer"
+[FILTER] Amount < 0
+[SERVER] LOCAL
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 72
+CustomerNo                      UTF16       1  12    
+CustomerNo2                     UTF16      13  12    
+Count                           ARBUTUS    25  12 0 PICTURE "999,999,999" WIDTH 8  
+COUNT_PERCENTAGE                ARBUTUS    37  12 2 AS "Percent;of Count" WIDTH 8  
+FIELD_PERCENTAGE                ARBUTUS    49  12 2 AS "Percent;of Field" WIDTH 8  
+Amount                          ARBUTUS    61  12 0  

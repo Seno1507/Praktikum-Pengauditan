@@ -1,0 +1,13 @@
+FILE_NAME Realsa\CustomerCreditLimit.FIL
+~Table Imported via OpenXML Excel 05/09/2025 14:36:22
+~.05/09/2025 14:36:40 _ IMPORT OPENEXCEL TO CustomerCreditLimit FILE "C:\Users\USer\Documents\PRAKDIT\OneDrive_2025-03-03\Realsa data\customer credit limit.xlsx" TABLE "Sheet1" SERVER "LOCAL" FLAT "C:\Users\USer\Documents\Arbutus\Realsa\CustomerCreditLimit.FIL" FIELDS "CustomerNo","Credit max" END 
+[FILESIZE] 36
+[LASTVIEW] "CustomerCreditLimit"
+[REFRESH] OPENEXCEL FILE "C:\Users\USer\Documents\PRAKDIT\OneDrive_2025-03-03\Realsa data\customer credit limit.xlsx" TABLE "Sheet1" SERVER "LOCAL" FLAT "C:\Users\USer\Documents\Arbutus\Realsa\CustomerCreditLimit.FIL" FIELDS "CustomerNo","Credit max" END
+[SERVER] LOCAL
+[DELIMITED] 0 9 0
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 73
+CustomerNo                      UTF8        1   6   NATIVE [D]  
+Credit_max                      PRINT       7   8 0 DECIMAL '.' NATIVE [D]  

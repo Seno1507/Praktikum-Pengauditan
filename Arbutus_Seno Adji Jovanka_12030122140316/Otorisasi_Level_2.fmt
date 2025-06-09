@@ -1,0 +1,17 @@
+FILE_NAME Otorisasi Level 2.fil
+~Table Imported via OpenXML Excel 05/06/2025 09:07:38
+~.05/06/2025 09:07:54 _ IMPORT OPENEXCEL TO Cash_GL FILE "C:\Users\USer\Documents\PRAKDIT\OneDrive_2025-03-03\Realsa data\Cash GL.xlsx" TABLE "Sheet1" SERVER "LOCAL" FLAT "C:\Users\USer\Documents\Arbutus\Sheet1.FIL" FIELDS "Posting Date","Voucher Number","Voucher  Description","Account Number","Amount Debit","Amount Credit","Balance" END
+~.05/06/2025 09:27:40 Cash_GL EXTRACT FIELDS Posting_Date Voucher_Number Voucher__Description Account_Number Amount_Credit TO "Otorisasi Level 2" OPEN IF Between( Amount_Credit , 50000000 , 100000000 )
+~Input : Records:100         Control Total:0                    
+~Output: Records:2           Control Total:0                    
+[FILESIZE] 2
+[LASTVIEW] "Otorisasi_Level_2"
+[SERVER] LOCAL
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 37
+Posting_Date                    DATETIME    1  10   PICTURE "yyyy-mm-dd"  
+Voucher_Number                  PRINT      11   5 0 DECIMAL '.'  
+Voucher__Description            UTF8       16  10    
+Account_Number                  PRINT      26   3 0 DECIMAL '.'  
+Amount_Credit                   PRINT      29   9 0 DECIMAL '.'  

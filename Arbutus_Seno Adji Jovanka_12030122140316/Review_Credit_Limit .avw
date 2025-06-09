@@ -1,0 +1,11 @@
+[SKIP] 0
+[TLINES] 2
+[RLINES] 1
+[LINE] 1
+CustomerNo             WIDTH 12
+Count                  WIDTH 10
+COUNT_PERCENTAGE       WIDTH 12
+FIELD_PERCENTAGE       WIDTH 13
+Amount                 WIDTH 17
+Credit_max             WIDTH 14
+Credit_melampaui       WIDTH 17

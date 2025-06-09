@@ -1,0 +1,20 @@
+[SKIP] 0
+[TLINES] 1
+[RLINES] 1
+[LINE] 1
+Employee_Number        WIDTH 19
+First_Name            
+Last_Name             
+Address                WIDTH 30
+City                  
+Work_Department        WIDTH 20
+Phone_Number           WIDTH 17
+HireDate              
+Job_Desc_              WIDTH 13
+Education_Level        WIDTH 15
+Gender                 WIDTH 8
+Salary                
+Birthdate             
+Bonus                 
+Commission             WIDTH 12
+Pay_Per_Period         WIDTH 15

@@ -1,0 +1,2656 @@
+Log File C:\Users\USer\Documents\Arbutus\Seno Adji Jovanka_120301221403163.log Opened at 11:44:32 on 05/27/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN Inventory
+11:44:42 - 05/27/2025
+  6 fields activated
+@ OPEN Inventory
+11:44:42 - 05/27/2025
+Closing Table Inventory (Table 0) and all active fields
+  6 fields activated
+@ OPEN Inventory
+11:45:12 - 05/27/2025
+Closing Table Inventory (Table 0) and all active fields
+  6 fields activated
+@ VERIFY FIELDS Cost_Date ERRORLIMIT 20
+11:45:19 - 05/27/2025
+<<< Table Data:InventoryVERIFY >>>
+RecordFieldTypeContents (text)Contents (hex)
+
+13Cost_DateDATETIME          20 20 20 20 20 20 20 20 20 20 
+
+<<< Table End >>>
+  1 data validity errors detected
+@ LOCATE RECORD 13
+11:45:20 - 05/27/2025
+Located record 13
+@ DUPLICATES ON Inventory_Cost PRESORT
+11:45:34 - 05/27/2025
+Presorting Primary data file.
+<<< Table Data:InventoryDUPLICATESNInventory_Cost >>>
+Inventory_CostCount
+
+   -1000002
+    1500002
+    3300002
+    5400002
+    6000002
+    9000003
+    9450002
+    9900003
+   10800004
+   11000002
+   12000002
+   13000002
+   14000002
+   14300002
+   14400002
+   15000004
+   16000004
+   16500002
+   18000002
+   18600002
+   19350002
+   19500002
+   19800004
+   20000006
+   21000003
+   23000003
+   24000002
+   26000003
+   27000005
+   30000002
+   31000003
+   32000002
+   34000002
+   36300002
+   41800002
+   42000005
+   43000002
+   44000002
+   49500003
+
+<<< Table End >>>
+  64 duplicates detected
+@ DUPLICATES ON Product_Number PRESORT
+11:45:43 - 05/27/2025
+Presorting Primary data file.
+  0 duplicates detected
+@ TOTAL FIELDS Inventory_Cost
+11:45:49 - 05/27/2025
+<<< Table Data:InventoryTOTAL >>>
+Field NameTotal
+
+Inventory_Cost320,557,500
+
+<<< Table End >>>
+@ STATISTICS ON Inventory_Cost NUMBER 5
+11:45:57 - 05/27/2025
+<<< Table Data:InventorySTATISTICSInventory_Cost >>>
+Field: Inventory_CostNumberTotalAverage
+
+Positive149320,757,5002,152,735
+Zeros1
+Negative2-200,000-100,000
+Totals152320,557,5002,108,931
+Abs Value320,957,500
+Range5,160,000
+
+<<< Table End >>>
+<<< Table Data:InventorySORTInventory_Cost:Inventory_Cost >>>
+HighestLowest
+
+5,060,000-100,000
+4,950,000-100,000
+4,950,0000
+4,950,000100,000
+4,900,000150,000
+
+<<< Table End >>>
+@ QUIT
+11:46:09 - 05/27/2025
+Closing Table Inventory (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 12:57:32 on 05/27/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN Inventory
+12:57:39 - 05/27/2025
+  6 fields activated
+@ OPEN Ghost_employee
+12:58:16 - 05/27/2025
+Closing Table Inventory (Table 0) and all active fields
+  7 fields activated
+@ OPEN Fixed_Assets
+13:08:10 - 05/27/2025
+@ OPEN CustomerCreditLimit
+13:09:21 - 05/27/2025
+@ OPEN EmployeeMaster
+13:12:09 - 05/27/2025
+Closing Table Ghost_employee (Table 0) and all active fields
+  16 fields activated
+@ OPEN Ghost_employee
+13:15:51 - 05/27/2025
+@ QUIT
+15:02:10 - 05/27/2025
+Closing Table EmployeeMaster (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 15:18:52 on 05/27/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN EmployeeMaster
+15:18:58 - 05/27/2025
+  16 fields activated
+Closing Table EmployeeMaster (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 15:22:42 on 05/27/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN EmployeeMaster
+15:22:44 - 05/27/2025
+  16 fields activated
+@ OPEN _Dup_VendorMaster
+15:22:50 - 05/27/2025
+Closing Table EmployeeMaster (Table 0) and all active fields
+  4 fields activated
+@ OPEN _Dup_VendorMaster
+15:23:15 - 05/27/2025
+Closing Table _Dup_VendorMaster (Table 0) and all active fields
+  4 fields activated
+@ OPEN _Dup_VendorMaster
+15:23:16 - 05/27/2025
+Closing Table _Dup_VendorMaster (Table 0) and all active fields
+  4 fields activated
+@ OPEN _Dup_VendorMaster
+15:23:20 - 05/27/2025
+Closing Table _Dup_VendorMaster (Table 0) and all active fields
+  4 fields activated
+@ OPEN EmployeeMaster
+15:23:27 - 05/27/2025
+Closing Table _Dup_VendorMaster (Table 0) and all active fields
+  16 fields activated
+@ OPEN koreksi_aset_tetap
+15:23:41 - 05/27/2025
+Closing Table EmployeeMaster (Table 0) and all active fields
+  7 fields activated
+@ OPEN _Dup_VendorMaster
+15:23:44 - 05/27/2025
+Closing Table koreksi_aset_tetap (Table 0) and all active fields
+  4 fields activated
+Closing Table _Dup_VendorMaster (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 15:24:14 on 05/27/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN VendorMaster
+15:24:21 - 05/27/2025
+  4 fields activated
+Closing Table VendorMaster (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 12:30:09 on 05/28/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN VendorMaster
+12:30:14 - 05/28/2025
+  4 fields activated
+@ OPEN Account_Payable
+12:30:23 - 05/28/2025
+Closing Table VendorMaster (Table 0) and all active fields
+  6 fields activated
+Closing Table Account_Payable (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 15:48:11 on 05/28/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN Account_Payable
+15:48:19 - 05/28/2025
+  6 fields activated
+@ OPEN Fixed_Assets
+15:48:24 - 05/28/2025
+Closing Table Account_Payable (Table 0) and all active fields
+  13 fields activated
+@ OPEN Fixed_Assets
+15:48:27 - 05/28/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  13 fields activated
+@ DELETE FIELD perhitungan OK
+15:49:14 - 05/28/2025
+@ DEFINE FIELD perhitungan COMPUTED 
+15:49:14 - 05/28/2025
+@  
+@ "Habis manfaat" IF Penyusutan_2021 > Nilai_Buku2020 - 0.5
+@ "Habis manfaat" IF Penyusutan_2021 = Nilai_Buku2020 - 1
+@ "Benar" IF Penyusutan_2021 = Harga_Perolehan * Tarif_Penyusutan
+@ "Salah"
+Closing Table Fixed_Assets (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 16:37:05 on 05/28/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN Fixed_Assets
+16:37:07 - 05/28/2025
+  13 fields activated
+@ OPEN _Dup_VendorMaster
+16:37:09 - 05/28/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  4 fields activated
+@ DELETE FOLDER "/Seno Adji" OK
+16:37:26 - 05/28/2025
+Folder 'Seno Adji' deleted
+@ QUIT
+16:37:30 - 05/28/2025
+Closing Table _Dup_VendorMaster (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 16:37:36 on 05/28/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN _Dup_Piutang_Per_Customer
+16:37:45 - 05/28/2025
+  5 fields activated
+@ OPEN AccountsReceivable
+16:42:02 - 05/28/2025
+Closing Table _Dup_Piutang_Per_Customer (Table 0) and all active fields
+  6 fields activated
+@ OPEN _Dup_Piutang_Per_Customer
+16:42:18 - 05/28/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  5 fields activated
+@ OPEN Cash_GL
+16:42:38 - 05/28/2025
+Closing Table _Dup_Piutang_Per_Customer (Table 0) and all active fields
+  8 fields activated
+@ OPEN Cash_Disburhsment
+16:46:04 - 05/28/2025
+Closing Table Cash_GL (Table 0) and all active fields
+  4 fields activated
+@ OPEN Cash_GL
+16:47:53 - 05/28/2025
+Closing Table Cash_Disburhsment (Table 0) and all active fields
+  8 fields activated
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+16:48:02 - 05/28/2025
+Computed fields bypassed, as all values considered valid
+  0 data validity errors detected
+@ DUPLICATES ON Voucher_Number PRESORT
+16:50:36 - 05/28/2025
+Presorting Primary data file.
+  0 duplicates detected
+@ GAPS ON Voucher_Number PRESORT
+16:53:15 - 05/28/2025
+Presorting Primary data file.
+<<< Table Data:Cash_GLGAPS >>>
+Gap Start orGap EndNumber of
+Missing ItemMissing Items
+
+12100021000
+
+<<< Table End >>>
+  1 gaps detected
+@ OPEN Otorisasi_Level_1
+17:00:40 - 05/28/2025
+Closing Table Cash_GL (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_1
+17:00:40 - 05/28/2025
+Closing Table Otorisasi_Level_1 (Table 0) and all active fields
+  5 fields activated
+@ OPEN Cash_GL
+17:02:22 - 05/28/2025
+Closing Table Otorisasi_Level_1 (Table 0) and all active fields
+  8 fields activated
+@ OPEN Otorisasi_Level_1
+17:03:15 - 05/28/2025
+Closing Table Cash_GL (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_1
+17:03:15 - 05/28/2025
+Closing Table Otorisasi_Level_1 (Table 0) and all active fields
+  5 fields activated
+@ EXTRACT FIELDS Amount_Credit
+17:03:26 - 05/28/2025
+@ OPEN Cash_GL
+17:04:30 - 05/28/2025
+Closing Table Otorisasi_Level_1 (Table 0) and all active fields
+  8 fields activated
+@ OPEN Cash_GL
+17:04:31 - 05/28/2025
+Closing Table Cash_GL (Table 0) and all active fields
+  8 fields activated
+@ EXTRACT FIELDS Amount_Credit
+17:05:20 - 05/28/2025
+@ OPEN EmployeeMaster
+17:07:01 - 05/28/2025
+Closing Table Cash_GL (Table 0) and all active fields
+  16 fields activated
+@ OPEN Otorisasi_Level_1
+17:07:03 - 05/28/2025
+Closing Table EmployeeMaster (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_1
+17:07:04 - 05/28/2025
+Closing Table Otorisasi_Level_1 (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_2
+17:07:25 - 05/28/2025
+Closing Table Otorisasi_Level_1 (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_2
+17:07:26 - 05/28/2025
+Closing Table Otorisasi_Level_2 (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_3
+17:07:38 - 05/28/2025
+Closing Table Otorisasi_Level_2 (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_3
+17:07:39 - 05/28/2025
+Closing Table Otorisasi_Level_3 (Table 0) and all active fields
+  5 fields activated
+@ OPEN VendorMaster
+17:23:02 - 05/28/2025
+Closing Table Otorisasi_Level_3 (Table 0) and all active fields
+  4 fields activated
+@ OPEN AccountsReceivable
+17:23:05 - 05/28/2025
+Closing Table VendorMaster (Table 0) and all active fields
+  6 fields activated
+@ OPEN AccountsReceivable
+17:23:06 - 05/28/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+17:25:42 - 05/28/2025
+  0 data validity errors detected
+@ DUPLICATES ON CustomerNo PRESORT
+17:26:57 - 05/28/2025
+Presorting Primary data file.
+<<< Table Data:AccountsReceivableDUPLICATESCCustomerNo >>>
+CustomerNoCount
+
+0515932
+0560162
+06500337
+1764376
+2020282
+2220064
+2305757
+2580242
+26200133
+3010372
+37600518
+4786043
+50165728
+5135743
+51637243
+5180088
+64146411
+7846472
+7954013
+7973522
+81100224
+8124654
+8360047
+8780352
+92500730
+9380104
+
+<<< Table End >>>
+  263 duplicates detected
+@ OPEN CustomerCreditLimit
+17:31:14 - 05/28/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  2 fields activated
+@ OPEN CustomerCreditLimit
+17:31:14 - 05/28/2025
+Closing Table CustomerCreditLimit (Table 0) and all active fields
+  2 fields activated
+@ OPEN Cash_GL
+17:31:17 - 05/28/2025
+Closing Table CustomerCreditLimit (Table 0) and all active fields
+  8 fields activated
+@ OPEN Cash_GL
+17:31:18 - 05/28/2025
+Closing Table Cash_GL (Table 0) and all active fields
+  8 fields activated
+@ CLASSIFY ON Status_Control ACCUMULATE Amount_Credit TOP ALL
+17:31:37 - 05/28/2025
+<<< Table Data:Cash_GLCLASSIFYStatus_Control >>>
+Page ...   1                                         05/28/2025  17:31:37
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Status_Control   CountPercent of CountPercent of FieldAmount_Credit
+
+Level 1       69 69.00% 81.79%2406342244
+None          28 28.00% 11.38%334862928
+Level 2       2  2.00%  3.43%100826357
+Level 3       1  1.00%  3.41%100200000
+
+              100100.00%100.00%2942231529
+
+<<< Table End >>>
+  4 records produced
+@ OPEN Otorisasi_Level_1
+17:33:16 - 05/28/2025
+Closing Table Cash_GL (Table 0) and all active fields
+  5 fields activated
+@ OPEN Cash_GL
+17:33:21 - 05/28/2025
+Closing Table Otorisasi_Level_1 (Table 0) and all active fields
+  8 fields activated
+@ OPEN Cash_GL
+17:33:22 - 05/28/2025
+Closing Table Cash_GL (Table 0) and all active fields
+  8 fields activated
+@ OPEN Inventory
+17:42:43 - 05/28/2025
+Closing Table Cash_GL (Table 0) and all active fields
+  6 fields activated
+@ OPEN Inventory
+17:42:44 - 05/28/2025
+Closing Table Inventory (Table 0) and all active fields
+  6 fields activated
+@ OPEN AccountsReceivable
+17:42:49 - 05/28/2025
+Closing Table Inventory (Table 0) and all active fields
+  6 fields activated
+@ OPEN AccountsReceivable
+17:42:50 - 05/28/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ DUPLICATES ON CustomerNo PRESORT
+17:45:22 - 05/28/2025
+Presorting Primary data file.
+<<< Table Data:AccountsReceivableDUPLICATESCCustomerNo >>>
+CustomerNoCount
+
+0515932
+0560162
+06500337
+1764376
+2020282
+2220064
+2305757
+2580242
+26200133
+3010372
+37600518
+4786043
+50165728
+5135743
+51637243
+5180088
+64146411
+7846472
+7954013
+7973522
+81100224
+8124654
+8360047
+8780352
+92500730
+9380104
+
+<<< Table End >>>
+  263 duplicates detected
+@ GAPS ON CustomerNo PRESORT
+17:50:55 - 05/28/2025
+Presorting Primary data file.
+<<< Table Data:AccountsReceivableGAPS >>>
+Gap Start orGap EndNumber of
+Missing ItemMissing Items
+
+51594560154422
+56017650028986
+650049762632623
+9762811323515608
+11323717643663200
+17643820202725590
+20202922200519977
+2220072305748568
+23057625802327448
+2580252620003976
+26200227709615095
+27709829739620299
+2973983010363639
+30103832916828131
+32917037600446835
+376006478603102598
+47860550165623052
+50165851357311916
+5135755163712797
+5163735180071635
+51800953518817180
+53519056226927080
+56227164146379193
+641465778087136623
+7780897846466558
+78464879540010753
+7954027973511950
+79735381100113649
+8110038124641462
+81246683600323538
+83600586903233028
+8690348780349001
+87803692500646971
+92500893800913002
+93801199440256392
+
+<<< Table End >>>
+  35 gaps detected
+@ OPEN AccountsReceivable
+18:03:17 - 05/28/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ OPEN _Dup_Piutang_Per_Customer
+18:08:30 - 05/28/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  5 fields activated
+@ CLOSE
+18:08:51 - 05/28/2025
+Closing Table _Dup_Piutang_Per_Customer (Table 0) and all active fields
+@ DELETE FORMAT _Dup_Piutang_Per_Customer
+18:08:55 - 05/28/2025
+Command cancelled
+@ OPEN _Dup_Piutang_Per_Customer2
+18:09:00 - 05/28/2025
+  5 fields activated
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:04 - 05/28/2025
+Closing Table _Dup_Piutang_Per_Customer2 (Table 0) and all active fields
+  5 fields activated
+@ CLOSE
+18:09:07 - 05/28/2025
+Closing Table _Dup_Piutang_Per_Customer (Table 0) and all active fields
+@ DELETE FORMAT _Dup_Piutang_Per_Customer
+18:09:08 - 05/28/2025
+Data file 'C:\Users\USer\Documents\Arbutus\Piutang Per Customer.fil' deleted.
+Format '_Dup_Piutang_Per_Customer' deleted.
+View '_Dup_Piutang_Per_Customer' deleted.
+@ OPEN _Dup_Piutang_Per_Customer2
+18:09:15 - 05/28/2025
+@ OPEN _Dup_Piutang_Per_Customer2
+18:09:18 - 05/28/2025
+@ OPEN _Dup_Piutang_Per_Customer2
+18:09:23 - 05/28/2025
+  5 fields activated
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:40 - 05/28/2025
+Closing Table _Dup_Piutang_Per_Customer2 (Table 0) and all active fields
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:45 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:46 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:47 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:48 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:49 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:50 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:51 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:51 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:52 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:53 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:53 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:54 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:54 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:55 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:55 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:55 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:55 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:56 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:56 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:56 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:57 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:57 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:57 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:58 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:58 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:09:58 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer2
+18:09:59 - 05/28/2025
+  5 fields activated
+@ OPEN _Dup_Piutang_Per_Customer2
+18:10:03 - 05/28/2025
+Closing Table _Dup_Piutang_Per_Customer2 (Table 0) and all active fields
+  5 fields activated
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:05 - 05/28/2025
+Closing Table _Dup_Piutang_Per_Customer2 (Table 0) and all active fields
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:05 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:05 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:06 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:06 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:07 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:07 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:07 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:08 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:08 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:08 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:08 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:09 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:09 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:09 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:09 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:10 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:10 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:10 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:10 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:10 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:11 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:11 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:11 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:11 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:11 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:12 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:12 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:12 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:12 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:13 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:13 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:13 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:13 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:13 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:16 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:16 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:16 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:16 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:17 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:17 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:17 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:17 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:17 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:18 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:18 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:18 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:18 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:18 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:19 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:19 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:19 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:19 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:20 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:20 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:20 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:20 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:20 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:21 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:21 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:21 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:22 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:22 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:22 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:22 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:23 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:23 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:23 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:24 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:24 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:24 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:24 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:25 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:25 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:25 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:25 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:25 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:25 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:26 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:26 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:26 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:26 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:29 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:29 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:30 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:30 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:30 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:30 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:31 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:31 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:31 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:33 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:33 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:33 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer
+18:10:33 - 05/28/2025
+Table _Dup_Piutang_Per_Customer not found
+Table _Dup_Piutang_Per_Customer2 re-linked to file C:\Users\USer\Documents\Arbutus\Piutang_Per_Customer.fmt
+  5 fields activated
+@ OPEN _Dup_Piutang_Per_Customer
+18:12:41 - 05/28/2025
+Closing Table _Dup_Piutang_Per_Customer2 (Table 0) and all active fields
+Table _Dup_Piutang_Per_Customer not found
+@ OPEN _Dup_Piutang_Per_Customer2
+18:12:44 - 05/28/2025
+  5 fields activated
+@ CLOSE
+18:12:49 - 05/28/2025
+Closing Table _Dup_Piutang_Per_Customer2 (Table 0) and all active fields
+@ DELETE FORMAT _Dup_Piutang_Per_Customer2
+18:12:49 - 05/28/2025
+Format '_Dup_Piutang_Per_Customer2' deleted.
+View '_Dup_Piutang_Per_Customer2' deleted.
+@ OPEN CustomerCreditLimit
+18:12:55 - 05/28/2025
+  2 fields activated
+@ OPEN Review_Credit_Limit
+18:13:09 - 05/28/2025
+Closing Table CustomerCreditLimit (Table 0) and all active fields
+  7 fields activated
+@ OPEN AccountsReceivable
+18:14:25 - 05/28/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  6 fields activated
+@ CLASSIFY ON CustomerNo ACCUMULATE Amount GROUPBY CustomerNo TO "Piutang Per Customer" OPEN PRESORT TOP ALL
+18:15:08 - 05/28/2025
+Presorting Primary data file.
+  36 records produced
+  Output to Piutang Per Customer is done
+@ OPEN Piutang_Per_Customer
+18:15:09 - 05/28/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ OPEN Piutang_Per_Customer
+18:15:13 - 05/28/2025
+Closing Table Piutang_Per_Customer (Table 0) and all active fields
+  6 fields activated
+@ OPEN Piutang_Per_Customer
+18:15:14 - 05/28/2025
+Closing Table Piutang_Per_Customer (Table 0) and all active fields
+  6 fields activated
+@ OPEN Review_Credit_Limit
+18:24:38 - 05/28/2025
+Closing Table Piutang_Per_Customer (Table 0) and all active fields
+  7 fields activated
+@ EXTRACT FIELDS Amount IF Amount > Credit_max
+18:26:05 - 05/28/2025
+@ EXTRACT FIELDS Amount IF Amount > Credit_max
+18:26:06 - 05/28/2025
+@ EXTRACT FIELDS Amount IF Amount > Credit_max
+18:26:07 - 05/28/2025
+@ EXTRACT FIELDS Amount IF Amount > Credit_max
+18:26:08 - 05/28/2025
+@ EXTRACT FIELDS Amount IF Amount > Credit_max
+18:26:09 - 05/28/2025
+@ OPEN Review_Credit_Limit
+18:26:16 - 05/28/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  7 fields activated
+@ OPEN Review_Credit_Limit
+18:26:16 - 05/28/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  7 fields activated
+@ SET FILTER TO  Amount > Credit_max
+18:26:36 - 05/28/2025
+@ OPEN CustomerCreditLimit
+18:27:29 - 05/28/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  2 fields activated
+@ OPEN CustomerCreditLimit
+18:27:30 - 05/28/2025
+Closing Table CustomerCreditLimit (Table 0) and all active fields
+  2 fields activated
+@ OPEN Review_Credit_Limit
+18:27:44 - 05/28/2025
+Closing Table CustomerCreditLimit (Table 0) and all active fields
+  7 fields activated
+@ OPEN Review_Credit_Limit
+18:27:45 - 05/28/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  7 fields activated
+@ DEFINE FIELD credit_limit_1 COMPUTED Amount > Credit_max
+18:29:01 - 05/28/2025
+@ SET FILTER TO credit_limit_1
+18:29:01 - 05/28/2025
+@ SET FILTER TO Amount > Credit_max
+18:29:12 - 05/28/2025
+@ CLASSIFY ON Credit_melampaui TOP ALL
+18:29:28 - 05/28/2025
+<<< Table Data:Review_Credit_LimitCLASSIFYCredit_melampauiAmount > Credit_max >>>
+Page ...   1                                         05/28/2025  18:29:28
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Credit_melampaui   CountPercent of Count
+
+Melampaui       2100.00%
+
+                2100.00%
+
+<<< Table End >>>
+  1 records produced
+  2 of 36 matched the Filter: Amount > Credit_max
+@ OPEN Review_Credit_Limit2
+18:31:37 - 05/28/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  7 fields activated
+@ SET FILTER TO Amount > Credit_max
+18:31:49 - 05/28/2025
+@ OPEN Piutang_Per_Customer
+18:33:36 - 05/28/2025
+Closing Table Review_Credit_Limit2 (Table 0) and all active fields
+  6 fields activated
+@ OPEN Customer_Credit_Limit SECONDARY
+18:34:01 - 05/28/2025
+  2 fields activated
+@ OPEN CustomerCreditLimit SECONDARY
+18:34:40 - 05/28/2025
+Closing Table Customer_Credit_Limit (Secondary) and all active fields
+  2 fields activated
+@ OPEN Customer_Credit_Limit SECONDARY
+18:34:45 - 05/28/2025
+Closing Table CustomerCreditLimit (Secondary) and all active fields
+  2 fields activated
+@ JOIN PRIMARY PKEY CustomerNo FIELDS ALL SKEY CustomerNo WITH ALL PRESORT SECSORT
+18:34:51 - 05/28/2025
+@ JOIN PRIMARY PKEY CustomerNo FIELDS ALL SKEY CustomerNo WITH ALL TO "cl" OPEN PRESORT SECSORT
+18:34:59 - 05/28/2025
+Presorting Primary data file.
+Presorting Secondary data file.
+Field 'CustomerNo' renamed 'CustomerNo3' to remove name conflict
+  36 records produced
+  0 PRIMARY records unmatched and written with nulls
+  Output to cl is done
+@ OPEN cl
+18:34:59 - 05/28/2025
+Closing Table Piutang_Per_Customer (Table 0) and all active fields
+  8 fields activated
+@ SET FILTER TO Amount > Credit_max
+18:35:32 - 05/28/2025
+@ SORT ON Credit_max
+18:36:36 - 05/28/2025
+@ SORT ON Credit_max
+18:36:37 - 05/28/2025
+@ SORT ON Credit_max
+18:36:37 - 05/28/2025
+@ SORT ON Credit_max Amount CustomerNo
+18:36:50 - 05/28/2025
+@ SORT ON Credit_max Amount CustomerNo
+18:36:51 - 05/28/2025
+@ SORT ON Credit_max Amount CustomerNo
+18:36:51 - 05/28/2025
+@ SORT ON Credit_max Amount CustomerNo
+18:36:51 - 05/28/2025
+@ SORT ON Credit_max Amount CustomerNo
+18:36:52 - 05/28/2025
+@ OPEN Customer_Credit_Limit
+18:36:59 - 05/28/2025
+Closing Table Customer_Credit_Limit (Secondary) and all active fields
+Closing Table cl (Table 0) and all active fields
+  2 fields activated
+@ OPEN Review_Credit_Limit
+18:37:21 - 05/28/2025
+Closing Table Customer_Credit_Limit (Table 0) and all active fields
+  8 fields activated
+@ OPEN Review_Credit_Limit
+18:37:22 - 05/28/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  8 fields activated
+@ OPEN AccountsReceivable
+18:40:17 - 05/28/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  6 fields activated
+@ OPEN AccountsReceivable
+18:40:19 - 05/28/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ SET FILTER TO Amount < 0
+18:40:31 - 05/28/2025
+@ EXTRACT FIELDS Amount
+18:40:48 - 05/28/2025
+@ OPEN Inventory
+19:08:24 - 05/28/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ OPEN Inventory
+19:08:25 - 05/28/2025
+Closing Table Inventory (Table 0) and all active fields
+  6 fields activated
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+19:08:31 - 05/28/2025
+<<< Table Data:InventoryVERIFY >>>
+RecordFieldTypeContents (text)Contents (hex)
+
+13Cost_DateDATETIME          20 20 20 20 20 20 20 20 20 20 
+
+<<< Table End >>>
+  1 data validity errors detected
+@ DUPLICATES ON Product_Number PRESORT
+19:08:51 - 05/28/2025
+Presorting Primary data file.
+  0 duplicates detected
+@ GAPS ON Product_Number PRESORT
+19:10:14 - 05/28/2025
+Presorting Primary data file.
+<<< Table Data:InventoryGAPS >>>
+Gap Start orGap EndNumber of
+Missing ItemMissing Items
+
+1010271110102839129
+101028411011903916199
+101190411013441915379
+1013442110135059639
+101350611015514920089
+10155151101551599
+10155161101551699
+101551711020721952049
+102072211022661919399
+102266211031088984269
+1031089110311799909
+1031180110311989189
+1031199110551339239349
+105513411063113979799
+106311411063118949
+1063119110803759172569
+108037612390371113099951
+239037132394637142659
+239463732397304126669
+2397304324100311127269
+24100313241043113999
+24104313241065112199
+24106513241086112099
+24108613241121613549
+24112163241213319169
+24121333241287117379
+241287132412881199
+2412881324128931119
+24128933241305711639
+24130573241331112539
+24133113241393716259
+2413937324140031659
+24140033241448114779
+241448132418843143619
+24188433241952616829
+24195263300303225835060
+3003032430302302271979
+3030230430302902599
+3030290430303342439
+303033443030340259
+30303404303034129
+30303414303093725959
+303093743032166212289
+303216643032168219
+3032168430322302619
+30322304303248022499
+303248043032488279
+303248843036416239279
+303641643041255248389
+3041255430412752199
+3041275430412902149
+30412904304142821379
+304142843041431229
+3041431430934422520109
+30934424342550023320579
+34255004402200735965070
+40220075402249834909
+402249854022501329
+4022501540225933919
+4022593540226053119
+40226055402321936139
+40232195402402838089
+4024028540240663379
+4024066540240883219
+4024088540241313429
+4024131540241753439
+40241755402432231469
+40243225402470333809
+402470354027032323289
+402703254027035329
+40270355402760535699
+40276055402771531099
+402771555220451411927360
+52204516522045249
+52204526522088044279
+52208806522105441739
+5221054652484404273859
+52484406524844149
+52484416524844249
+52484426524844349
+524844365250400419569
+525040065253015426149
+5253015652720304190149
+5272030652720614309
+527206165277001449399
+52770016601003057330290
+60100307601003159
+601003176010033519
+601003376010035519
+60100357601020651709
+601020676010208519
+60102087601020959
+60102097601021059
+60102107601021159
+601021176011227510159
+601122776011229519
+601122976011235559
+601123576020030587949
+602003076021706516759
+60217067602214954429
+60221497602215059
+6022150760221675169
+60221677701041769882500
+7010417870104326149
+701043287010434619
+701043487010437629
+701043787010439619
+7010439870104656259
+701046587010467619
+70104678801008179996140
+8010081980101017199
+80101019801026171599
+80102619801026279
+8010262980102917289
+80102919801062173299
+801062198012343717219
+8012343980123937499
+801239398012396729
+8012396980124517549
+80124519801260071489
+801260098012605749
+8012605980126307249
+8012630980435437309129
+804354398051277777339
+8051277980935297422519
+8093529980935427129
+80935429809387473319
+8093874980938997249
+80938999900100109071012
+900100129006959059579
+900695929008100011409
+9008100290501050420049
+9050105290501540489
+90501542905015509
+90501552905040602509
+9050406290504760699
+90504762905063301569
+90506332905078101479
+905078129050784029
+90507842905078509
+9050785290508190339
+90508192905095601369
+9050956290509930369
+905099329050998049
+905099829058407174090
+90584073905853211249
+905853239059991114589
+905999139066961069698
+90669612937884103118799
+9378841213030560236517191
+13030560418012215749816554
+
+<<< Table End >>>
+  151 gaps detected
+@ GAPS ON Cost_Date PRESORT
+19:27:52 - 05/28/2025
+Presorting Primary data file.
+<<< Table Data:InventoryGAPS >>>
+Gap Start orGap EndNumber of
+Missing ItemMissing Items
+
+01/02/190001/06/202144201
+01/09/202101/11/20213
+01/13/202101/28/202116
+01/31/20211
+02/03/202102/06/20214
+02/08/202103/07/202128
+03/09/202103/27/202119
+03/29/202104/07/202110
+04/09/202104/15/20217
+04/17/202105/07/202121
+05/09/202106/03/202126
+06/05/202106/09/20215
+06/11/202106/12/20212
+06/14/202106/27/202114
+06/29/202107/29/202131
+07/31/202108/06/20217
+08/09/202108/12/20214
+08/14/202109/06/202124
+09/10/202109/11/20212
+09/14/202109/17/20214
+09/19/202109/27/20219
+10/02/202110/03/20212
+10/05/202110/06/20212
+10/09/20211
+10/11/202110/17/20217
+10/19/202110/20/20212
+10/22/202110/29/20218
+10/31/20211
+11/02/202111/08/20217
+11/10/202111/16/20217
+11/18/202111/28/202111
+11/30/202112/07/20218
+12/09/202112/17/20219
+12/19/202112/28/202110
+
+<<< Table End >>>
+  34 gaps detected
+@ TOTAL FIELDS Inventory_Cost
+19:31:51 - 05/28/2025
+<<< Table Data:InventoryTOTAL >>>
+Field NameTotal
+
+Inventory_Cost320,557,500
+
+<<< Table End >>>
+@ OPEN Inventory
+20:20:32 - 05/28/2025
+Closing Table Inventory (Table 0) and all active fields
+  6 fields activated
+@ OPEN Inventory
+20:20:34 - 05/28/2025
+Closing Table Inventory (Table 0) and all active fields
+  6 fields activated
+@ STATISTICS ON Inventory_Cost NUMBER 5
+20:20:42 - 05/28/2025
+<<< Table Data:InventorySTATISTICSInventory_Cost >>>
+Field: Inventory_CostNumberTotalAverage
+
+Positive149320,757,5002,152,735
+Zeros1
+Negative2-200,000-100,000
+Totals152320,557,5002,108,931
+Abs Value320,957,500
+Range5,160,000
+
+<<< Table End >>>
+<<< Table Data:InventorySORTInventory_Cost:Inventory_Cost >>>
+HighestLowest
+
+5,060,000-100,000
+4,950,000-100,000
+4,950,0000
+4,950,000100,000
+4,900,000150,000
+
+<<< Table End >>>
+@ OPEN koreksi_aset_tetap
+20:33:25 - 05/28/2025
+Closing Table Inventory (Table 0) and all active fields
+  7 fields activated
+@ OPEN koreksi_aset_tetap
+20:33:26 - 05/28/2025
+Closing Table koreksi_aset_tetap (Table 0) and all active fields
+  7 fields activated
+@ CLOSE
+20:33:30 - 05/28/2025
+Closing Table koreksi_aset_tetap (Table 0) and all active fields
+@ OPEN Fixed_Assets
+20:33:34 - 05/28/2025
+  13 fields activated
+@ OPEN Fixed_Assets
+20:33:35 - 05/28/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  13 fields activated
+@ OPEN Ghost_employee
+20:43:15 - 05/28/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  7 fields activated
+@ OPEN Ghost_employee
+20:43:17 - 05/28/2025
+Closing Table Ghost_employee (Table 0) and all active fields
+  7 fields activated
+@ OPEN Fixed_Assets
+20:43:20 - 05/28/2025
+Closing Table Ghost_employee (Table 0) and all active fields
+  13 fields activated
+@ OPEN koreksi_aset_tetap
+22:04:14 - 05/28/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  7 fields activated
+@ OPEN Fixed_Assets
+08:10:56 - 05/29/2025
+Closing Table koreksi_aset_tetap (Table 0) and all active fields
+  13 fields activated
+@ OPEN koreksi_aset_tetap
+08:14:46 - 05/29/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  7 fields activated
+@ OPEN Fixed_Assets
+08:15:28 - 05/29/2025
+Closing Table koreksi_aset_tetap (Table 0) and all active fields
+  13 fields activated
+@ OPEN AP_Trans_2021
+09:43:28 - 05/29/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  6 fields activated
+@ OPEN AP_with_Vendor_Name
+09:43:32 - 05/29/2025
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  7 fields activated
+@ OPEN AP_Trans_2021
+09:43:39 - 05/29/2025
+Closing Table AP_with_Vendor_Name (Table 0) and all active fields
+  6 fields activated
+@ TOTAL FIELDS Invoice_Amount
+09:44:19 - 05/29/2025
+<<< Table Data:AP_Trans_2021TOTAL >>>
+Field NameTotal
+
+Invoice_Amount3,097,498,639
+
+<<< Table End >>>
+@ OPEN AP_with_Vendor_Name
+09:47:33 - 05/29/2025
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  7 fields activated
+@ TOTAL FIELDS Invoice_Amount
+09:47:50 - 05/29/2025
+<<< Table Data:AP_with_Vendor_NameTOTAL >>>
+Field NameTotal
+
+Invoice_Amount155,267,110
+
+<<< Table End >>>
+@ OPEN AP_with_Vendor_Name
+09:48:48 - 05/29/2025
+Closing Table AP_with_Vendor_Name (Table 0) and all active fields
+  7 fields activated
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+09:48:55 - 05/29/2025
+  0 data validity errors detected
+@ DUPLICATES ON Invoice_No PRESORT
+09:49:11 - 05/29/2025
+Presorting Primary data file.
+  0 duplicates detected
+@ OPEN AP_with_Vendor_Name
+09:53:29 - 05/29/2025
+Closing Table AP_with_Vendor_Name (Table 0) and all active fields
+  7 fields activated
+@ OPEN AP_with_Vendor_Name
+09:53:30 - 05/29/2025
+Closing Table AP_with_Vendor_Name (Table 0) and all active fields
+  7 fields activated
+@ CLASSIFY ON Vendor_Name ACCUMULATE Invoice_Amount TO GRAPH TOP 10
+09:54:18 - 05/29/2025
+<<< Table Data:AP_with_Vendor_NameCLASSIFYVendor_Name >>>
+Page ...   1                                         05/29/2025  09:54:18
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Vendor_Name   CountPercent of CountPercent of FieldInvoice_Amount
+
+CV Maya Pada             4 14.29% 14.35%22286900
+CV Segar Bugar           3 10.71% 11.06%17170700
+Bapak Rajiman Sunarto    3 10.71% 10.83%16813200
+Bumdes Lerep             2  7.14%  7.40%11490100
+Bumdes Kreo              2  7.14%  7.30%11327400
+Bapak Ong  Wi Ha         2  7.14%  7.25%11257000
+JNT                      2  7.14%  7.18%11150400
+CV Maju Makmur           2  7.14%  6.88%10677600
+PT Tetra packaging       2  7.14%  6.80%10555210
+Hadi Jaya                1  3.57%  3.84%5955400
+
+                         23 82.14% 82.88%128683910
+
+<<< Table End >>>
+  10 records produced
+@ CLASSIFY ON Vendor_Name ACCUMULATE Invoice_Amount TOP 10
+09:54:53 - 05/29/2025
+<<< Table Data:AP_with_Vendor_NameCLASSIFYVendor_Name >>>
+Page ...   1                                         05/29/2025  09:54:53
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Vendor_Name   CountPercent of CountPercent of FieldInvoice_Amount
+
+CV Maya Pada             4 14.29% 14.35%22286900
+CV Segar Bugar           3 10.71% 11.06%17170700
+Bapak Rajiman Sunarto    3 10.71% 10.83%16813200
+Bumdes Lerep             2  7.14%  7.40%11490100
+Bumdes Kreo              2  7.14%  7.30%11327400
+Bapak Ong  Wi Ha         2  7.14%  7.25%11257000
+JNT                      2  7.14%  7.18%11150400
+CV Maju Makmur           2  7.14%  6.88%10677600
+PT Tetra packaging       2  7.14%  6.80%10555210
+Hadi Jaya                1  3.57%  3.84%5955400
+
+                         23 82.14% 82.88%128683910
+
+<<< Table End >>>
+  10 records produced
+@ AGE ON Due_date CUTOFF 20241231 INTERVAL 0,31,61,91,121,151,181,10000 ACCUMULATE Invoice_Amount GROUPBY Vendor_Name PRESORT
+09:57:17 - 05/29/2025
+Presorting Primary data file.
+Vendor_Name: Arizona Packaging        
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='Arizona Packaging        ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             1100.00%100.00%5574300
+
+                          1100.00%100.00%5574300
+
+<<< Table End >>>
+Vendor_Name: Bapak Ong  Wi Ha         
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='Bapak Ong  Wi Ha         ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             2100.00%100.00%11257000
+
+                          2100.00%100.00%11257000
+
+<<< Table End >>>
+Vendor_Name: Bapak Rajiman Sunarto    
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='Bapak Rajiman Sunarto    ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             3100.00%100.00%16813200
+
+                          3100.00%100.00%16813200
+
+<<< Table End >>>
+Vendor_Name: Bumdes Kreo              
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='Bumdes Kreo              ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             2100.00%100.00%11327400
+
+                          2100.00%100.00%11327400
+
+<<< Table End >>>
+Vendor_Name: Bumdes Lerep             
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='Bumdes Lerep             ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             2100.00%100.00%11490100
+
+                          2100.00%100.00%11490100
+
+<<< Table End >>>
+Vendor_Name: CV Maju Makmur           
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='CV Maju Makmur           ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             2100.00%100.00%10677600
+
+                          2100.00%100.00%10677600
+
+<<< Table End >>>
+Vendor_Name: CV Maya Pada             
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='CV Maya Pada             ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             4100.00%100.00%22286900
+
+                          4100.00%100.00%22286900
+
+<<< Table End >>>
+Vendor_Name: CV Segar Bugar           
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='CV Segar Bugar           ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             3100.00%100.00%17170700
+
+                          3100.00%100.00%17170700
+
+<<< Table End >>>
+Vendor_Name: Cv Gunung Tandur         
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='Cv Gunung Tandur         ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             1100.00%100.00%5106200
+
+                          1100.00%100.00%5106200
+
+<<< Table End >>>
+Vendor_Name: Gadjah Transportation    
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='Gadjah Transportation    ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             1100.00%100.00%5151900
+
+                          1100.00%100.00%5151900
+
+<<< Table End >>>
+Vendor_Name: Hadi Jaya                
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='Hadi Jaya                ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             1100.00%100.00%5955400
+
+                          1100.00%100.00%5955400
+
+<<< Table End >>>
+Vendor_Name: Hexagon Machine          
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='Hexagon Machine          ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             1100.00%100.00%5293800
+
+                          1100.00%100.00%5293800
+
+<<< Table End >>>
+Vendor_Name: JNT                      
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='JNT                      ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             2100.00%100.00%11150400
+
+                          2100.00%100.00%11150400
+
+<<< Table End >>>
+Vendor_Name: Koperasi Kelapa Sejahtera
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='Koperasi Kelapa Sejahtera' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             1100.00%100.00%5457000
+
+                          1100.00%100.00%5457000
+
+<<< Table End >>>
+Vendor_Name: PT Tetra packaging       
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231Vendor_Name='PT Tetra packaging       ' >>>
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             2100.00%100.00%10555210
+
+                          2100.00%100.00%10555210
+
+<<< Table End >>>
+  105 records produced
+@ AGE ON Due_date CUTOFF 20250529 INTERVAL 0,31,61,91,121,151,181,10000 ACCUMULATE Vendor_No
+09:58:12 - 05/29/2025
+
+  <<< AGE over 0-> 10,000 >>>
+  >>> Minimum encountered was 1,186
+  >>> Maximum encountered was 1,240
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20250529 >>>
+Page ...   1                                         05/29/2025  09:58:12
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Due_date   CountPercent of CountPercent of Field   Vendor_No
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             28100.00%100.00%280334
+
+                          28100.00%100.00%280334
+
+<<< Table End >>>
+  7 records produced
+@ AGE ON Due_date CUTOFF 20241231 INTERVAL 0,31,61,91,121,151,181,10000
+09:58:42 - 05/29/2025
+
+  <<< AGE over 0-> 10,000 >>>
+  >>> Minimum encountered was 1,037
+  >>> Maximum encountered was 1,091
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231 >>>
+Page ...   1                                         05/29/2025  09:58:42
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Due_date   CountPercent of Count
+
+0 -> 30                   0  0.00%
+31 -> 60                  0  0.00%
+61 -> 90                  0  0.00%
+91 -> 120                 0  0.00%
+121 -> 150                0  0.00%
+151 -> 180                0  0.00%
+181 -> 10,000             28100.00%
+
+                          28100.00%
+
+<<< Table End >>>
+  7 records produced
+@ AGE ON Due_date CUTOFF 20231231 INTERVAL 0,31,61,91,121,151,181,10000 ACCUMULATE Invoice_Amount
+10:05:31 - 05/29/2025
+
+  <<< AGE over 0-> 10,000 >>>
+  >>> Minimum encountered was 671
+  >>> Maximum encountered was 725
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20231231 >>>
+Page ...   1                                         05/29/2025  10:05:32
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             28100.00%100.00%155267110
+
+                          28100.00%100.00%155267110
+
+<<< Table End >>>
+  7 records produced
+@ AGE ON Due_date CUTOFF 20241231 INTERVAL 0,31,61,91,121,151,181,10000 ACCUMULATE Vendor_No
+10:06:17 - 05/29/2025
+
+  <<< AGE over 0-> 10,000 >>>
+  >>> Minimum encountered was 1,037
+  >>> Maximum encountered was 1,091
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231 >>>
+Page ...   1                                         05/29/2025  10:06:17
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Due_date   CountPercent of CountPercent of Field   Vendor_No
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             28100.00%100.00%280334
+
+                          28100.00%100.00%280334
+
+<<< Table End >>>
+  7 records produced
+@ AGE ON Due_date CUTOFF 20241231 INTERVAL 0,31,61,91,121,151,181,10000 ACCUMULATE Invoice_Amount
+10:07:13 - 05/29/2025
+
+  <<< AGE over 0-> 10,000 >>>
+  >>> Minimum encountered was 1,037
+  >>> Maximum encountered was 1,091
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231 >>>
+Page ...   1                                         05/29/2025  10:07:13
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             28100.00%100.00%155267110
+
+                          28100.00%100.00%155267110
+
+<<< Table End >>>
+  7 records produced
+@ AGE ON Due_date CUTOFF 20211231 INTERVAL 0,31,61,91,121,151,181,10000 ACCUMULATE Invoice_Amount
+10:09:04 - 05/29/2025
+
+  <<< AGE over 0-> 10,000 >>>
+  >>> Minimum encountered was -59
+  >>> Maximum encountered was -5
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20211231 >>>
+Page ...   1                                         05/29/2025  10:09:04
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+-59 -> -1                 28100.00%100.00%155267110
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             0  0.00%  0.00%
+
+                          28100.00%100.00%155267110
+
+<<< Table End >>>
+  8 records produced
+@ AGE ON Due_date CUTOFF 20211231 INTERVAL 0,31,61,91,121,151,181,10000 ACCUMULATE Invoice_Amount
+10:10:52 - 05/29/2025
+
+  <<< AGE over 0-> 10,000 >>>
+  >>> Minimum encountered was -59
+  >>> Maximum encountered was -5
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20211231 >>>
+Page ...   1                                         05/29/2025  10:10:52
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+-59 -> -1                 28100.00%100.00%155267110
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             0  0.00%  0.00%
+
+                          28100.00%100.00%155267110
+
+<<< Table End >>>
+  8 records produced
+@ SET FILTER TO age(Due_date,"20241231")>=181  AND age(Due_date,"20241231")<=10000
+10:11:07 - 05/29/2025
+@ AGE ON Due_date CUTOFF 20221231 INTERVAL 0,31,61,91,121,151,181,10000 ACCUMULATE Invoice_Amount
+10:22:55 - 05/29/2025
+
+  <<< AGE over 0-> 10,000 >>>
+  >>> Minimum encountered was 306
+  >>> Maximum encountered was 360
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20221231age(Due_date,"20241231")>=181  AND age(Due_date,"20241231")<=10000 >>>
+Page ...   1                                         05/29/2025  10:22:55
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Due_date   CountPercent of CountPercent of FieldInvoice_Amount
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             28100.00%100.00%155267110
+
+                          28100.00%100.00%155267110
+
+<<< Table End >>>
+  7 records produced
+  28 of 28 matched the Filter: age(Due_date,"20241231")>=181  AND age(Due_date,"20241231")<=10000
+@ SET FILTER TO age(Due_date,"20241231")>=181  AND age(Due_date,"20241231")<=10000
+10:23:45 - 05/29/2025
+@ OPEN AP_with_Vendor_Name
+10:29:53 - 05/29/2025
+Closing Table AP_with_Vendor_Name (Table 0) and all active fields
+  7 fields activated
+@ OPEN AP_with_Vendor_Name
+10:29:54 - 05/29/2025
+Closing Table AP_with_Vendor_Name (Table 0) and all active fields
+  7 fields activated
+@ DUPLICATES ON Invoice_No PRESORT
+10:30:06 - 05/29/2025
+Presorting Primary data file.
+  0 duplicates detected
+@ OPEN AP_Trans_2021
+10:30:12 - 05/29/2025
+Closing Table AP_with_Vendor_Name (Table 0) and all active fields
+  6 fields activated
+@ OPEN AP_Trans_2021
+10:30:13 - 05/29/2025
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  6 fields activated
+@ DUPLICATES ON Invoice_No PRESORT
+10:30:30 - 05/29/2025
+Presorting Primary data file.
+<<< Table Data:AP_Trans_2021DUPLICATESCInvoice_No >>>
+Invoice_NoCount
+
+519383  2
+8753401 2
+
+<<< Table End >>>
+  2 duplicates detected
+@ SET FILTER TO Invoice_No="519383  "
+10:30:41 - 05/29/2025
+@ SET FILTER TO Invoice_No="8753401 "
+10:31:11 - 05/29/2025
+@ SET FILTER TO Invoice_No="8753401
+10:35:35 - 05/29/2025
+Missing closing string delimiter
+Missing closing string delimiter
+Missing closing string delimiter
+@ SET FILTER TO Invoice_No="8753401"
+10:35:43 - 05/29/2025
+@ SET FILTER TO Invoice_No="519383  "
+10:36:14 - 05/29/2025
+@ SET FILTER
+10:36:23 - 05/29/2025
+@ SET FILTER TO Invoice_No="8753401"
+10:36:33 - 05/29/2025
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 16:44:52 on 05/29/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN AP_Trans_2021
+16:44:54 - 05/29/2025
+  6 fields activated
+@ OPEN _Dup_VendorMaster
+16:44:59 - 05/29/2025
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  4 fields activated
+@ OPEN AP_Trans_2021
+16:45:04 - 05/29/2025
+Closing Table _Dup_VendorMaster (Table 0) and all active fields
+  6 fields activated
+@ OPEN Fixed_Assets
+16:45:07 - 05/29/2025
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  13 fields activated
+@ QUIT
+17:00:12 - 05/29/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 22:55:21 on 05/29/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN Fixed_Assets
+22:55:25 - 05/29/2025
+  13 fields activated
+@ OPEN cl
+22:55:31 - 05/29/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  8 fields activated
+@ OPEN Cash_GL
+22:59:54 - 05/29/2025
+Closing Table cl (Table 0) and all active fields
+  8 fields activated
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+23:00:03 - 05/29/2025
+Computed fields bypassed, as all values considered valid
+  0 data validity errors detected
+@ DUPLICATES ON Voucher_Number PRESORT
+23:00:23 - 05/29/2025
+Presorting Primary data file.
+  0 duplicates detected
+@ GAPS ON Voucher_Number PRESORT
+23:00:56 - 05/29/2025
+Presorting Primary data file.
+<<< Table Data:Cash_GLGAPS >>>
+Gap Start orGap EndNumber of
+Missing ItemMissing Items
+
+12100021000
+
+<<< Table End >>>
+  1 gaps detected
+@ OPEN Otorisasi_Level_1
+23:06:22 - 05/29/2025
+Closing Table Cash_GL (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_1
+23:06:23 - 05/29/2025
+Closing Table Otorisasi_Level_1 (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_2
+23:09:54 - 05/29/2025
+Closing Table Otorisasi_Level_1 (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_2
+23:09:55 - 05/29/2025
+Closing Table Otorisasi_Level_2 (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_3
+23:10:19 - 05/29/2025
+Closing Table Otorisasi_Level_2 (Table 0) and all active fields
+  5 fields activated
+@ OPEN Otorisasi_Level_3
+23:10:20 - 05/29/2025
+Closing Table Otorisasi_Level_3 (Table 0) and all active fields
+  5 fields activated
+@ OPEN AccountsReceivable
+23:15:07 - 05/29/2025
+Closing Table Otorisasi_Level_3 (Table 0) and all active fields
+  6 fields activated
+@ OPEN AccountsReceivable
+23:15:08 - 05/29/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+23:15:17 - 05/29/2025
+  0 data validity errors detected
+@ DUPLICATES ON CustomerNo PRESORT
+23:16:48 - 05/29/2025
+Presorting Primary data file.
+<<< Table Data:AccountsReceivableDUPLICATESCCustomerNo >>>
+CustomerNoCount
+
+0515932
+0560162
+06500337
+1764376
+2020282
+2220064
+2305757
+2580242
+26200133
+3010372
+37600518
+4786043
+50165728
+5135743
+51637243
+5180088
+64146411
+7846472
+7954013
+7973522
+81100224
+8124654
+8360047
+8780352
+92500730
+9380104
+
+<<< Table End >>>
+  263 duplicates detected
+@ GAPS ON CustomerNo PRESORT
+23:17:04 - 05/29/2025
+Presorting Primary data file.
+<<< Table Data:AccountsReceivableGAPS >>>
+Gap Start orGap EndNumber of
+Missing ItemMissing Items
+
+51594560154422
+56017650028986
+650049762632623
+9762811323515608
+11323717643663200
+17643820202725590
+20202922200519977
+2220072305748568
+23057625802327448
+2580252620003976
+26200227709615095
+27709829739620299
+2973983010363639
+30103832916828131
+32917037600446835
+376006478603102598
+47860550165623052
+50165851357311916
+5135755163712797
+5163735180071635
+51800953518817180
+53519056226927080
+56227164146379193
+641465778087136623
+7780897846466558
+78464879540010753
+7954027973511950
+79735381100113649
+8110038124641462
+81246683600323538
+83600586903233028
+8690348780349001
+87803692500646971
+92500893800913002
+93801199440256392
+
+<<< Table End >>>
+  35 gaps detected
+@ OPEN Review_Credit_Limit
+23:28:07 - 05/29/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  8 fields activated
+@ OPEN Review_Credit_Limit
+23:28:08 - 05/29/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  8 fields activated
+@ EXTRACT RECORD IF Amount > Credit_max
+23:29:05 - 05/29/2025
+@ OPEN Review_Credit_Limit2
+23:30:14 - 05/29/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  7 fields activated
+@ OPEN Review_Credit_Limit2
+23:30:15 - 05/29/2025
+Closing Table Review_Credit_Limit2 (Table 0) and all active fields
+  7 fields activated
+@ VERIFY
+23:30:49 - 05/29/2025
+Enter the fields to VERIFY
+? @ VERIFY FIELDS ALL ERRORLIMIT 20 IF Amount > Credit_max
+23:30:52 - 05/29/2025
+Computed fields bypassed, as all values considered valid
+  2 of 36 met the test: Amount > Credit_max
+  0 data validity errors detected
+@ OPEN Piutang_Per_Customer
+23:33:41 - 05/29/2025
+Closing Table Review_Credit_Limit2 (Table 0) and all active fields
+  6 fields activated
+@ OPEN Piutang_Per_Customer
+23:33:42 - 05/29/2025
+Closing Table Piutang_Per_Customer (Table 0) and all active fields
+  6 fields activated
+@ OPEN Review_Credit_Limit
+23:34:17 - 05/29/2025
+Closing Table Piutang_Per_Customer (Table 0) and all active fields
+  8 fields activated
+@ OPEN Review_Credit_Limit
+23:34:18 - 05/29/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  8 fields activated
+@ SET FILTER TO Amount > Credit_max
+23:34:31 - 05/29/2025
+@ SET FILTER
+23:35:54 - 05/29/2025
+@ SET FILTER TO Amount < 0
+23:36:08 - 05/29/2025
+@ OPEN Piutang_Per_Customer
+23:36:13 - 05/29/2025
+Closing Table Review_Credit_Limit (Table 0) and all active fields
+  6 fields activated
+@ OPEN Piutang_Per_Customer
+23:36:14 - 05/29/2025
+Closing Table Piutang_Per_Customer (Table 0) and all active fields
+  6 fields activated
+@ SET FILTER TO Amount < 0
+23:36:27 - 05/29/2025
+@ OPEN CustomerCreditLimit
+23:36:32 - 05/29/2025
+Closing Table Piutang_Per_Customer (Table 0) and all active fields
+  2 fields activated
+@ OPEN CustomerCreditLimit
+23:36:33 - 05/29/2025
+Closing Table CustomerCreditLimit (Table 0) and all active fields
+  2 fields activated
+@ OPEN AccountsReceivable
+23:36:36 - 05/29/2025
+Closing Table CustomerCreditLimit (Table 0) and all active fields
+  6 fields activated
+@ OPEN AccountsReceivable
+23:36:37 - 05/29/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ SET FILTER TO Amount < 0
+23:36:48 - 05/29/2025
+@ STATISTICS ON Amount NUMBER 5
+23:38:52 - 05/29/2025
+<<< Table Data:AccountsReceivableSTATISTICSAmountAmount < 0 >>>
+Field: AmountNumberTotalAverage
+
+Positive000
+Zeros0
+Negative4-3,238,500-809,625
+Totals4-3,238,500-809,625
+Abs Value3,238,500
+Range249,600
+
+<<< Table End >>>
+<<< Table Data:AccountsReceivableSORTAmount:AmountAmount < 0 >>>
+HighestLowest
+
+-642,800-892,400
+-812,300-891,000
+-891,000-812,300
+-892,400-642,800
+
+<<< Table End >>>
+  4 of 299 matched the Filter: Amount < 0
+@ TOTAL FIELDS Amount
+06:13:05 - 05/30/2025
+<<< Table Data:AccountsReceivableTOTALAmount < 0 >>>
+Field NameTotal
+
+Amount-3,238,500
+
+<<< Table End >>>
+  4 of 299 matched the Filter: Amount < 0
+@ OPEN AccountsReceivable
+06:13:53 - 05/30/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ OPEN AccountsReceivable
+06:13:53 - 05/30/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ AGE ON DueDate CUTOFF 20211231 INTERVAL 0,31,61,91,121,151,181,10000 ACCUMULATE ALL
+06:14:43 - 05/30/2025
+
+  <<< AGE over 0-> 10,000 >>>
+  >>> Minimum encountered was -31
+  >>> Maximum encountered was 325
+<<< Table Data:AccountsReceivableAGEDueDate!20211231 >>>
+Page ...   1                                         05/30/2025  06:14:43
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+DueDate   CountPercent of CountPercent of Field      Amount
+
+-31 -> -1                 123 41.14% 40.25%80556950
+0 -> 30                   167 55.85% 56.18%112432600
+31 -> 60                  6  2.01%  2.31%4614900
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                1  0.33%  0.48%965000
+181 -> 10,000             2  0.67%  0.78%1557600
+
+                          299100.00%100.00%200127050
+
+<<< Table End >>>
+  8 records produced
+@ SET FILTER TO age(DueDate,"20211231")>=31  AND age(DueDate,"20211231")<=60
+06:16:22 - 05/30/2025
+@ SET FILTER TO age(DueDate,"20211231")>=151  AND age(DueDate,"20211231")<=180
+06:16:45 - 05/30/2025
+@ SET FILTER TO age(DueDate,"20211231")>=181  AND age(DueDate,"20211231")<=10000
+06:16:55 - 05/30/2025
+@ OPEN Inventory
+06:21:02 - 05/30/2025
+Closing Table AccountsReceivable (Table 0) and all active fields
+  6 fields activated
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+06:21:08 - 05/30/2025
+<<< Table Data:InventoryVERIFY >>>
+RecordFieldTypeContents (text)Contents (hex)
+
+13Cost_DateDATETIME          20 20 20 20 20 20 20 20 20 20 
+
+<<< Table End >>>
+  1 data validity errors detected
+@ DUPLICATES ON Product_Number PRESORT
+06:21:29 - 05/30/2025
+Presorting Primary data file.
+  0 duplicates detected
+@ LOCATE RECORD 13
+06:21:48 - 05/30/2025
+Located record 13
+@ GAPS ON Cost_Date PRESORT
+06:22:18 - 05/30/2025
+Presorting Primary data file.
+<<< Table Data:InventoryGAPS >>>
+Gap Start orGap EndNumber of
+Missing ItemMissing Items
+
+01/02/190001/06/202144201
+01/09/202101/11/20213
+01/13/202101/28/202116
+01/31/20211
+02/03/202102/06/20214
+02/08/202103/07/202128
+03/09/202103/27/202119
+03/29/202104/07/202110
+04/09/202104/15/20217
+04/17/202105/07/202121
+05/09/202106/03/202126
+06/05/202106/09/20215
+06/11/202106/12/20212
+06/14/202106/27/202114
+06/29/202107/29/202131
+07/31/202108/06/20217
+08/09/202108/12/20214
+08/14/202109/06/202124
+09/10/202109/11/20212
+09/14/202109/17/20214
+09/19/202109/27/20219
+10/02/202110/03/20212
+10/05/202110/06/20212
+10/09/20211
+10/11/202110/17/20217
+10/19/202110/20/20212
+10/22/202110/29/20218
+10/31/20211
+11/02/202111/08/20217
+11/10/202111/16/20217
+11/18/202111/28/202111
+11/30/202112/07/20218
+12/09/202112/17/20219
+12/19/202112/28/202110
+
+<<< Table End >>>
+  34 gaps detected
+@ VERIFY FIELDS Inventory_Cost ERRORLIMIT 20
+06:23:35 - 05/30/2025
+  0 data validity errors detected
+@ TOTAL FIELDS Inventory_Cost
+06:23:42 - 05/30/2025
+<<< Table Data:InventoryTOTAL >>>
+Field NameTotal
+
+Inventory_Cost320,557,500
+
+<<< Table End >>>
+@ STATISTICS ON Inventory_Cost NUMBER 5
+06:24:31 - 05/30/2025
+<<< Table Data:InventorySTATISTICSInventory_Cost >>>
+Field: Inventory_CostNumberTotalAverage
+
+Positive149320,757,5002,152,735
+Zeros1
+Negative2-200,000-100,000
+Totals152320,557,5002,108,931
+Abs Value320,957,500
+Range5,160,000
+
+<<< Table End >>>
+<<< Table Data:InventorySORTInventory_Cost:Inventory_Cost >>>
+HighestLowest
+
+5,060,000-100,000
+4,950,000-100,000
+4,950,0000
+4,950,000100,000
+4,900,000150,000
+
+<<< Table End >>>
+@ SET FILTER TO Inventory_Cost<0
+06:24:43 - 05/30/2025
+@ CLOSE
+06:26:54 - 05/30/2025
+Closing Table Inventory (Table 0) and all active fields
+@ OPEN Fixed_Assets
+06:26:56 - 05/30/2025
+  13 fields activated
+@ CROSSTAB ON Nama_dan_spesifikasi COLUMNS Jenis_Aset ACCUMULATE Harga_Perolehan
+06:29:21 - 05/30/2025
+<<< Table Data:Fixed_AssetsCROSSTABNama_dan_spesifikasi!Jenis_Aset >>>
+Page ...   1                                         05/30/2025  06:29:21
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Nama_dan_spesifikasi          | Harga_PerolehanHarga_PerolehanHarga_PerolehanHarga_PerolehanHarga_PerolehanHarga_Perolehan
+                                Jenis_AsetJenis_AsetJenis_AsetJenis_AsetJenis_AsetNama_dan_spesifikasi
+                                AutomotiveBuildingLandMach n EquipOfficeFurnitureTotal
+
+Filling Kabinet               | 60000006000000
+Gedung                        | 375000000375000000
+Honda Win                     | 1219500012195000
+Kursi                         | 24000002400000
+Laptop                        | 1375000013750000
+Meja Panjang                  | 52640005264000
+Mesin Pemotong Kertas         | 400000400000
+Mesin Pengemas                | 1500700015007000
+Mesin Pengolah gula Aren Cair | 8000000080000000
+Mixer Gula                    | 6550000065500000
+Mobil Pickup                  | 113555000113555000
+Perangkat Komputer            | 1459930014599300
+Printer                       | 20750002075000
+Rak Buku                      | 26370002637000
+TV 50 Inch                    | 55993005599300
+Tanah                         | 250000000250000000
+Timbangan Digital             | 50000005000000
+UPS                           | 31254003125400
+
+Total | 125,750,000375,000,000250,000,000165,507,00055,850,000972,107,000
+
+<<< Table End >>>
+  18 records produced
+@ CROSSTAB ON Nama_dan_spesifikasi COLUMNS Jenis_Aset ACCUMULATE Akumulasi_2020
+06:30:24 - 05/30/2025
+<<< Table Data:Fixed_AssetsCROSSTABNama_dan_spesifikasi!Jenis_Aset >>>
+Page ...   1                                         05/30/2025  06:30:24
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Nama_dan_spesifikasi          | Akumulasi_2020Akumulasi_2020Akumulasi_2020Akumulasi_2020Akumulasi_2020Akumulasi_2020
+                                Jenis_AsetJenis_AsetJenis_AsetJenis_AsetJenis_AsetNama_dan_spesifikasi
+                                AutomotiveBuildingLandMach n EquipOfficeFurnitureTotal
+
+Filling Kabinet               | 52500005250000
+Gedung                        | 5550000055500000
+Honda Win                     | 1219499912194999
+Kursi                         | 18000001800000
+Laptop                        | 49628324962832
+Meja Panjang                  | 39480003948000
+Mesin Pemotong Kertas         | 300000300000
+Mesin Pengemas                | 00
+Mesin Pengolah gula Aren Cair | 1000000010000000
+Mixer Gula                    | 1546160015461600
+Mobil Pickup                  | 30848003084800
+Perangkat Komputer            | 18249131824913
+Printer                       | 15562501556250
+Rak Buku                      | 19777501977750
+TV 50 Inch                    | 00
+Tanah                         | 00
+Timbangan Digital             | 625000625000
+UPS                           | 21383562138356
+
+Total | 15,279,79955,500,000 026,086,60023,758,101120,624,500
+
+<<< Table End >>>
+  18 records produced
+@ CROSSTAB ON Nama_dan_spesifikasi COLUMNS Jenis_Aset ACCUMULATE Akumulasi_2021
+06:30:39 - 05/30/2025
+<<< Table Data:Fixed_AssetsCROSSTABNama_dan_spesifikasi!Jenis_Aset >>>
+Page ...   1                                         05/30/2025  06:30:39
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Nama_dan_spesifikasi          | Akumulasi_2021Akumulasi_2021Akumulasi_2021Akumulasi_2021Akumulasi_2021Akumulasi_2021
+                                Jenis_AsetJenis_AsetJenis_AsetJenis_AsetJenis_AsetNama_dan_spesifikasi
+                                AutomotiveBuildingLandMach n EquipOfficeFurnitureTotal
+
+Filling Kabinet               | 5999999.05999999.0
+Gedung                        | 74625000.074625000.0
+Honda Win                     | 12194999.012194999.0
+Kursi                         | 2399999.02399999.0
+Laptop                        | 9347738.09347738.0
+Meja Panjang                  | 5263999.05263999.0
+Mesin Pemotong Kertas         | 399999.0399999.0
+Mesin Pengemas                | 1875875.01875875.0
+Mesin Pengolah gula Aren Cair | 16000000.016000000.0
+Mixer Gula                    | 19858925.019858925.0
+Mobil Pickup                  | 9570400.09570400.0
+Perangkat Komputer            | 3649825.53649825.5
+Printer                       | 2074999.02074999.0
+Rak Buku                      | 2636999.02636999.0
+TV 50 Inch                    | 699912.5699912.5
+Tanah                         | 0.00.0
+Timbangan Digital             | 1250000.01250000.0
+UPS                           | 2529031.02529031.0
+
+Total | 21,765,399.074,625,000.00.038,984,800.035,002,501.0170,377,700.0
+
+<<< Table End >>>
+  18 records produced
+@ OPEN Fixed_Assets
+06:31:18 - 05/30/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  13 fields activated
+@ OPEN Fixed_Assets
+06:31:19 - 05/30/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  13 fields activated
+@ OPEN koreksi_aset_tetap
+06:31:45 - 05/30/2025
+Closing Table Fixed_Assets (Table 0) and all active fields
+  7 fields activated
+@ OPEN koreksi_aset_tetap
+06:31:46 - 05/30/2025
+Closing Table koreksi_aset_tetap (Table 0) and all active fields
+  7 fields activated
+@ OPEN Account_Payable
+06:33:16 - 05/30/2025
+Closing Table koreksi_aset_tetap (Table 0) and all active fields
+  6 fields activated
+@ TOTAL FIELDS Invoice_Amount
+06:33:33 - 05/30/2025
+<<< Table Data:Account_PayableTOTAL >>>
+A range of the Log has been deleted
+
+  6 fields activated
+@ DUPLICATES ON Invoice_No PRESORT
+06:34:37 - 05/30/2025
+Presorting Primary data file.
+<<< Table Data:AP_Trans_2021DUPLICATESCInvoice_No >>>
+Invoice_NoCount
+
+519383  2
+8753401 2
+
+<<< Table End >>>
+  2 duplicates detected
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 06:35:14 on 05/30/2025
+@ OPEN Account_Payable
+06:35:26 - 05/30/2025
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  6 fields activated
+@ TOTAL FIELDS Invoice_Amount
+06:35:32 - 05/30/2025
+<<< Table Data:Account_PayableTOTAL >>>
+Field NameTotal
+
+Invoice_Amount155,267,110
+
+<<< Table End >>>
+@ VERIFY FIELDS ALL ERRORLIMIT 20
+06:35:36 - 05/30/2025
+  0 data validity errors detected
+@ OPEN AP_Trans_2021
+06:35:39 - 05/30/2025
+Closing Table Account_Payable (Table 0) and all active fields
+  6 fields activated
+@ DUPLICATES ON Invoice_No PRESORT
+06:35:44 - 05/30/2025
+Presorting Primary data file.
+<<< Table Data:AP_Trans_2021DUPLICATESCInvoice_No >>>
+Invoice_NoCount
+
+519383  2
+8753401 2
+
+<<< Table End >>>
+  2 duplicates detected
+@ SET FILTER TO Invoice_No="519383  "
+06:36:00 - 05/30/2025
+@ SET FILTER TO Invoice_No="8753401 "
+06:36:18 - 05/30/2025
+@ OPEN AP_with_Vendor_Name
+06:37:35 - 05/30/2025
+Closing Table AP_Trans_2021 (Table 0) and all active fields
+  7 fields activated
+@ CLASSIFY ON Vendor_Name ACCUMULATE Invoice_Amount TOP 10
+06:38:03 - 05/30/2025
+<<< Table Data:AP_with_Vendor_NameCLASSIFYVendor_Name >>>
+Page ...   1                                         05/30/2025  06:38:03
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Vendor_Name   CountPercent of CountPercent of FieldInvoice_Amount
+
+CV Maya Pada             4 14.29% 14.35%22286900
+CV Segar Bugar           3 10.71% 11.06%17170700
+Bapak Rajiman Sunarto    3 10.71% 10.83%16813200
+Bumdes Lerep             2  7.14%  7.40%11490100
+Bumdes Kreo              2  7.14%  7.30%11327400
+Bapak Ong  Wi Ha         2  7.14%  7.25%11257000
+JNT                      2  7.14%  7.18%11150400
+CV Maju Makmur           2  7.14%  6.88%10677600
+PT Tetra packaging       2  7.14%  6.80%10555210
+Hadi Jaya                1  3.57%  3.84%5955400
+
+                         23 82.14% 82.88%128683910
+
+<<< Table End >>>
+  10 records produced
+@ AGE ON Due_date CUTOFF 20241231 INTERVAL 0,31,61,91,121,151,181,10000 ACCUMULATE Vendor_No
+06:39:48 - 05/30/2025
+
+  <<< AGE over 0-> 10,000 >>>
+  >>> Minimum encountered was 1,037
+  >>> Maximum encountered was 1,091
+<<< Table Data:AP_with_Vendor_NameAGEDue_date!20241231 >>>
+Page ...   1                                         05/30/2025  06:39:48
+Produced with Arbutus Analyzer by: Universitas Dipoengoro, 
+
+Due_date   CountPercent of CountPercent of Field   Vendor_No
+
+0 -> 30                   0  0.00%  0.00%
+31 -> 60                  0  0.00%  0.00%
+61 -> 90                  0  0.00%  0.00%
+91 -> 120                 0  0.00%  0.00%
+121 -> 150                0  0.00%  0.00%
+151 -> 180                0  0.00%  0.00%
+181 -> 10,000             28100.00%100.00%280334
+
+                          28100.00%100.00%280334
+
+<<< Table End >>>
+  7 records produced
+@ OPEN AP_with_Vendor_Name
+06:40:39 - 05/30/2025
+Closing Table AP_with_Vendor_Name (Table 0) and all active fields
+  7 fields activated
+@ QUIT
+06:48:09 - 05/30/2025
+Closing Table AP_with_Vendor_Name (Table 0) and all active fields
+Log File C:\Users\USer\Documents\Arbutus\Rizky Farras Abdullah_12030122140223.log Opened at 21:36:00 on 06/01/2025
+Shared Folder '"C:\Users\USer\Documents\Arbutus\SmartApps\SmartApps"' is not allowed; it is a subset of the Project Folder. See help: 'Shared Folders'
+@ OPEN AP_with_Vendor_Name
+21:36:05 - 06/01/2025
+  7 fields activated
+Closing Table AP_with_Vendor_Name (Table 0) and all active fields

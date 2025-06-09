@@ -1,0 +1,20 @@
+FILE_NAME Ghost employee.fil
+~Table Imported via Excel XLS21 05/14/2025 08:07:09
+~.05/14/2025 08:07:22 _ IMPORT XLS21 TO Payroll_Excel SERVER "LOCAL" RECORD_LENGTH 120 CRLF FIELDS EmployeeNo UTF8 1 6, Gross_Pay UTF8 7 7, Tax_Amount UTF8 14 6, Net_Pay UTF8 20 7, Work_Dept UTF8 27 3, Pay_Date DATETIME 30 10 PIC 'yyyy-mm-dd', Cheque_No UTF8 40 5 END "C:\Users\USer\Documents\PRAKDIT\OneDrive_2025-03-03\Realsa data\Payroll_Excel.xls" "Payroll_Excel.FIL" 1 6 "Payroll dec 2021"
+~.05/23/2025 16:10:03 Payroll_Excel OPEN EmployeeMaster SECONDARY
+~.05/23/2025 16:10:03 Payroll_Excel JOIN UNMATCHED PKEY EmployeeNo FIELDS ALL SKEY Employee_Number TO "Ghost employee" OPEN PRESORT SECSORT
+~Input : Records:44          Control Total:0                    
+~Output: Records:2           Control Total:0                    
+[FILESIZE] 2
+[LASTVIEW] "Ghost_employee"
+[SERVER] LOCAL
+[UTF8]
+[VERSION] 1
+RECORD_LENGTH 44
+EmployeeNo                      UTF8        1   6    
+Gross_Pay                       UTF8        7   7    
+Tax_Amount                      UTF8       14   6    
+Net_Pay                         UTF8       20   7    
+Work_Dept                       UTF8       27   3    
+Pay_Date                        DATETIME   30  10   PICTURE "yyyy-mm-dd"  
+Cheque_No                       UTF8       40   5    
