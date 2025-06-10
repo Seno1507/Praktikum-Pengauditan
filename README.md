@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-06-10 at 19 25 43](https://github.com/user-attachments/assets/c0f570ba-53d0-4528-adc4-69c6bf92a33f)# Praktikum-Pengauditan_Seno-Adji-Jovanka_12030122140316
+# Praktikum-Pengauditan_Seno-Adji-Jovanka_12030122140316
 
 # PENDAHULUAN
 Dibuat untuk memenuhi tugas mata kuliah Praktikum Pengauditan
